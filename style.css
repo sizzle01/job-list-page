@@ -99,6 +99,11 @@ img {
     box-shadow: 0 5px #2a88cc;
 }
 
+h4 {
+    max-width: 100%;
+    height: auto;
+}
+
 .engage {
     margin: 50px 0;
     display: flex;
@@ -129,6 +134,10 @@ button {
     padding: 20px 0;
     color: #fff;
     background-color: #2a88cc;
+}
+
+.question h5 {
+    color: #fff;
 }
 
 
